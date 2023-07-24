@@ -1,14 +1,14 @@
 # BestShop - landing page (workshop)
 
- BestShop workshop1 is a simple one page webpage made for Coders Lab workshops.
- <br> <br>
- I used css, flex and html to create it 🎊
+BestShop workshop1 is a simple one page webpage made for Coders Lab workshops.
+
+I used css, flex and html to create it 🎊
 
 ## 🙌About the Project
 BestShop shows an example of landing page for an online store.
-<br> <br>
+
 It has a navigation bar that takes you to individual sections of the page.
-<br> <br>
+
 Also has a contact form and a checkbox to indicate consent to the use of the data provided.
 
 ## ✨Technologies Used
@@ -18,10 +18,10 @@ Also has a contact form and a checkbox to indicate consent to the use of the dat
 
 ## 💻Screenshots
 <div align="center">
-    <img src="./public/bw1.jpg" alt="screenshot" />
-    <img src="./public/bw2.jpg" alt="screenshot" />
-    <img src="./public/bw3.jpg" alt="screenshot" />
-    <img src="./public/bw4.jpg" alt="screenshot" />
-    <img src="./public/bw5.jpg" alt="screenshot" />
-    <img src="./public/bw6.jpg" alt="screenshot" />
+    <img src="./public/1shots_so.jpg" alt="screenshot" />
+    <img src="./public/2shots_so.jpg" alt="screenshot" />
+    <img src="./public/3shots_so.jpg" alt="screenshot" />
+    <img src="./public/4shots_so.jpg" alt="screenshot" />
+    <img src="./public/5shots_so.jpg" alt="screenshot" />
+    <img src="./public/6shots_so.jpg" alt="screenshot" />
 </div>
