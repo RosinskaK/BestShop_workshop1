@@ -18,6 +18,7 @@
 
 body {
     font-family: var(--font-open-sans);
+    overflow-x: hidden;
 }
 
 a {
@@ -50,6 +51,7 @@ a {
     line-height: 37px;
     font-weight: 300;
     font-family: var(--font-raleway);
+    padding-left: 5px;
 }
 
 .page-nav-list {
@@ -142,11 +144,13 @@ h2 {
     line-height: 42px;
     font-family: var(--font-raleway);
     text-align: center;
+    padding-top: 50px;
 }
 
 .sales_statistics {
     max-width: 800px;
     margin: 100px auto 120px;
+    padding-bottom: 60px;
     display: flex;
     justify-content: space-between;
 }
@@ -217,6 +221,7 @@ h2 {
 /* third section benefits */
 .third_section_benefits {
     padding: 100px 0;
+    padding-top: 20px;
     background-color: var(--color-light-grey);
 }
 
@@ -273,7 +278,7 @@ h2 {
 
 .benefits_single_first .benefits_image {
     margin-right: 117px;
-    margin-bottom: 38px;
+    margin-bottom: 78px;
 }
 
 .benefits_single_first .benefits_image::before {
@@ -627,10 +632,11 @@ h2 {
     line-height: 1.5rem;
     color: var(--color-grey);
     margin-top: 6px;
+    padding-left: 5px;
 }
 
-.footer_icons a:first-of-type {
-    margin-right: 17px;
+.footer_icons a {
+    margin-right: 7px;
 }
 
 .logo_footer {
